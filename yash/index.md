@@ -7,7 +7,7 @@ navigation: True
 current: about
 ---
 
-# Yash: Yet another shorth hand.
+# Yash: Yet another short hand.
 
 ## Introduction
 
