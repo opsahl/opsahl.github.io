@@ -70,11 +70,6 @@ Most of the times words are pretty easy to read without vowels, so we'll mostly 
 - Diphthongs are written with the main vowel, *great* for example would be written gret
 - When one feels that the word would be unclear without the vowels one can put in vowels to make it clearer
 
-## Indication of rs
-
-Words with *r* are very common in English, and we'll shorten them in a special way. In yash we don't start sentences or use capital letters
-in names, we use capital letters to indicate that the word has an r in it. For example *would* will be vd while *word* will be Vd.
-
 ## Phrasing
 
 We will phrase together short words and phrases so that we won't need to push the space bar after every single letter. This way something
@@ -94,28 +89,28 @@ I'll write some examples here to try and show that yash can shorten down texts q
 out what it's supposed to be.
 
 **To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and** \\
-t Clk hms cs lvs yvmn. i hv sldm Hd hm mnc hr xr ni Yr nm. nhs as c klpss x
+t crlk hms cs lvs yvmn. i hv sldm hrd hm mnc hr xr ni yr nm. nhs as c klpss x
 
 **predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly,** \\
-pdmnz yhl fhr sks. tvsx yt h flt ni mcn akn t lv f irn Adl. ll mcns, x yt on Ptklli
+pdmnz yhl fhr sks. tvsx yt h flt ni mcn akn t lv f irn adlr. ll mcns, x yt on ptklli
 
 **were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the** \\
-V Abx ths kld, pss bt Dmbl blnsd mx. hvs, itkt, ymz Pfkt rsnq x Bsvq mcn yty
+vr abhrx ths kld, pss bt dmrbl blnsd mx. hvs, itkt, ymz prfkt rsnq x bsrvq mcn yty
 
 **world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and** \\
-Vld hs sin, bt s aLv hvdv plsd hmslf na fls psc. h Nv spk fy Sft pcs, sv vy gab x
+Vld hs sin, bt s aLv hvdv plsd hmslf na fls psc. h nvr spk fy sftr pcs, sv vy gab x
 
 **a sneer. They were admirable things for the observer—excellent for drawing the veil from men’s motives and actions. But for the trained reasoner** \\
-a sner. ye vr Admbl yqs f yBsv-kslx f Dvq yvel frm mns mtvs x kcs. bt f y trax Rsn
+a sner. ye vr admrbl yqs f ybsrv-kslx f drvq yvel frm mns mtvs x kcs. bt f y trax rsnr
 
 **to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt** \\
-t admt sj Xtcs xo hs vn dlkt x fnl ajstd tmpamx vs t Xtds a Dstktq fktr vc mat Yv a dbt
+t admt sj xtrcs xo hs vn dlkt x fnl ajstd tmpamx vs t xtrds a dstrktq fktr vc mat yrv a dbt
 
 **upon all his mental results. Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than** \\
-pn lhs mxtl res. Gt na snzv Xzmx, ra krk n on f hs vn ha-Pv lnss, vdxb mr Dstbq yn
+pn lhs mxtl res. grt na snzv xzrmx, ra krk n on f hs vn ha-pvr lnss, vdxb mr dstrbq yn
 
 **a strong emotion in a nature such as his. And yet there was but one woman to him, and that woman was the late Irene Adler, of dubious and** \\
-a Zq emc na ntr sjs hs. x it Ys bt on vmn thm, x yt vmn vs ylt irn Adl, f dbis x
+a zrq emc na ntr sjs hs. x it yrs bt on vmn thm, x yt vmn vs ylt irn adlr, f dbis x
 
 **questionable memory** \\
-kvscab Mm.
+kvscab mmr.
