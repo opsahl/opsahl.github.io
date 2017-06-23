@@ -57,7 +57,7 @@ of 2 letters or a sound that occurs often, so that it's worth replacing it.
 | q | Is used for **ng/ing**                                    |
 | x | Is used for **nd/nt**                                     |
 | y | Is used for **th**                                        |
-| w | Is used for **rt/lt**                                        |
+| w | Is used for **rt/rd/lt/ld/td**                                        |
 | z | Is used for **st**                                        |
 
 
@@ -83,28 +83,28 @@ I'll write some examples here to try and show that yash can shorten down texts q
 out what it's supposed to be.
 
 **To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and** \\
-t crlk hms cs lvs yvmn. i hv sldm hrd hm mnc hr xr ni yr nm. nhs as c klpss x
+t crlk hms cs lvs yvmn. i hv swm hw hm mnc hr xr ni yr nm. nhs as c klpss x
 
 **predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly,** \\
-pdmnz yhl fhr sks. tvsx yt h flt ni mcn akn t lv f irn adlr. ll mcns, x yt on ptklli
+pdmnz yhl fhr sks. tvsx yt h flt ni emcn akn t lv f irn awr. ll mcns, x yt on pwklli
 
 **were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the** \\
-vr abhrx ths kld, pss bt dmrbl blnsd mx. hvs, itkt, ymz prfkt rsnq x bsrvq mcn yty
+vr abhrx ths kw, pss bt dmrbl blnsd mx. hvs, itkt, ymz prfkt rsnq x bsrvq mcn yty
 
 **world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and** \\
-Vld hs sin, bt s aLv hvdv plsd hmslf na fls psc. h nvr spk fy sftr pcs, sv vy gab x
+vw hs sin, bt s alvr hvdv plsd hmslf na fls psc. h nvr spk fy sfw pcs, sav vy gab x
 
 **a sneer. They were admirable things for the observer—excellent for drawing the veil from men’s motives and actions. But for the trained reasoner** \\
-a sner. ye vr admrbl yqs f ybsrv-kslx f drvq yvel frm mns mtvs x kcs. bt f y trax rsnr
+a sner. ye vr admrbl yqs f ybsrv-kslx f wvq yvel frm mns mtvs x kcs. bt f y wax rsnr
 
 **to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt** \\
-t admt sj xtrcs xo hs vn dlkt x fnl ajstd tmpamx vs t xtrds a dstrktq fktr vc mat yrv a dbt
+t admt sc xwcs xo hs vn wkt x fnli ajsw tmprmx vs t xwds a dswktq fkw vc mat yrv a dbt
 
 **upon all his mental results. Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than** \\
-pn lhs mxtl res. grt na snzv xzrmx, ra krk n on f hs vn ha-pvr lnss, vdxb mr dstrbq yn
+pn lhs mxw res. gw na snzv xzrmx, ra krk n on f hs vn ha-pvr lnss, vdxb mr dswbq yn
 
 **a strong emotion in a nature such as his. And yet there was but one woman to him, and that woman was the late Irene Adler, of dubious and** \\
-a zrq emc na ntr sjs hs. x it yrs bt on vmn thm, x yt vmn vs ylt irn adlr, f dbis x
+a zrq emc na nw sjs hs. x it yrs bt on vmn thm, x yt vmn vs ylt irn adlr, f dbis x
 
 **questionable memory** \\
 kvscab mmr.
