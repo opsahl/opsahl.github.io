@@ -57,7 +57,7 @@ of 2 letters or a sound that occurs often, so that it's worth replacing it.
 | q | Is used for **ng/ing**                                    |
 | x | Is used for **nd/nt**                                     |
 | y | Is used for **th**                                        |
-| w | Is special and we'll come to it later                 |
+| w | Is used for **rt**                                        |
 | z | Is used for **st**                                        |
 
 
@@ -76,12 +76,6 @@ We will phrase together short words and phrases so that we won't need to push th
 like "it will be" will be phrased together to tlb, we'll also phrase the (y) together with the word that it describes, and also do the same
 with a, this way we can cram our text together a bit more, and it will be quicker to write.
 
-## Personal/extra shortenings
-
-The last principle now is *w*, and the use of this letter is a bit different from the other ones. It will be used to mark already shortened words
-or shortenings that are personal, or dependent on the context/text it's in. This way if we're writing a text about linguistics, and we'll write
-long words quite often, we can shorten them down to a few letter, and prepend a w, this way every time that we see a w in a text we know that
-it's a shortening that we'll have to look back in the text to understand.
 
 ## Examples
 
