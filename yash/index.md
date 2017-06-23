@@ -82,6 +82,16 @@ with a, this way we can cram our text together a bit more, and it will be quicke
 I'll write some examples here to try and show that yash can shorten down texts quite a bit, and it's still not that complicated to figure
 out what it's supposed to be.
 
+**Some shorthand systems attempted to ease learning by using characters from the Latin alphabet. Such non-stenographic systems 
+have often been described as alphabetic, and purists might claim that such systems are not 'true' shorthand. However, these 
+alphabetic systems do have value for students who cannot dedicate the years necessary to master a stenographic shorthand.
+Alphabetic shorthands cannot be written at the speeds theoretically possible with symbol systems—200 words per minute or 
+more—but require only a fraction of the time to acquire a useful speed of between 60 and 100 words per minute.**
+
+sm cwhx szms atmw tis lrnx b usq krkws frm y ltn lfbt. sc nn-zngrfk szms hv ofn bn dskrbd s lfbtk, x przs mat klam yt sc szms
+rx tru cwhx. hvvr ys lfbtk szms dhv vlu f stdxs vo kx ddkt y irs nssri tmzr a stngrfk cwhx. lfbtk cthxs kx b rtn at y spds
+yretkli psbl vy smbl szms 200 ws pr mx r mr bt rkvr nl a frkc fytm t akvr a usfl spid f btvn 60 ws pr mx
+
 **To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and** \\
 t crlk hms cs lvs yvmn. i hv swm hw hm mnc hr xr ni yr nm. nhs as c klpss x
 
