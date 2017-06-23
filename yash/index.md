@@ -57,7 +57,7 @@ of 2 letters or a sound that occurs often, so that it's worth replacing it.
 | q | Is used for **ng/ing**                                    |
 | x | Is used for **nd/nt**                                     |
 | y | Is used for **th**                                        |
-| w | Is used for **rt**                                        |
+| w | Is used for **rt/lt**                                        |
 | z | Is used for **st**                                        |
 
 
